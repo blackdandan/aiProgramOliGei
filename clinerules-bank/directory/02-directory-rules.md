@@ -1,7 +1,7 @@
 # 目录结构管理规范
 
 ## 基本原则
-- 用户如果提出“建立索引”则扫描工作空间，建立cline-index.md文件
+- 用户如果提出“建立索引”，“初始化”则全量扫描工作空间内除.gitignore注明的文件和文件夹以及子目录，建立全量的cline-index.md文件
 - 涌入如果提出“建立索引并ignore”，建立cline-index.md并将其添加到.gitignore中，包括.clinerules
 - 每个项目必须维护一个cline-index.md文件
 - 目录结构使用ASCII字符树图表示
