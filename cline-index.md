@@ -14,7 +14,7 @@
 │   │   └── markdownarticle.md # Markdown文章规范
 │   ├── code/                 # 代码相关规则
 │   │   └── kotlin/           # Kotlin代码规范
-│   │       └── 01-code.md    # Kotlin代码规范文档
+│   │       └── 01-kotlin.md  # Kotlin语言规范文档
 │   └── directory/            # 目录相关规则
 │       └── 02-directory-rules.md # 目录规则文档
 │   └── document/             # 文档相关规则
