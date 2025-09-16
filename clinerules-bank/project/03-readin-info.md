@@ -7,4 +7,4 @@
 7. 公共Util使用或者新增，查看@/core/src/main/java/com/readin/app/core/utils 目录，其他查看各自模块的utils目录
 8. 展示弹窗，使用@com.readin.app.core.uicommon.dialog.vipdialog.source下的
 9. 代码设计应该考虑是否符合数据驱动，DataSource-Repository-ViewModel-StateFlow-View
-
+10. 编写UI的时候注意按需使用@/core/src/main/res/values/dimens.xml ， @/core/src/main/res/values/colors.xml @/core/src/main/res/values/styles.xml 中的值
