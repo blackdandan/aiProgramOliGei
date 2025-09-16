@@ -5,4 +5,5 @@
 5. 网络相关的需要使用Retrofit，查看@/core/src/main/java/com/readin/app/core/network/retrofit/BaseRetrofitClient.kt ,
 6. 打印日志使用@/core/src/main/java/com/readin/app/core/utils/log/ReaderLogger.java 
 7. 公共Util使用或者新增，查看@/core/src/main/java/com/readin/app/core/utils 目录，其他查看各自模块的utils目录
+8. 展示弹窗，使用@com.readin.app.core.uicommon.dialog.vipdialog.source下的
 
